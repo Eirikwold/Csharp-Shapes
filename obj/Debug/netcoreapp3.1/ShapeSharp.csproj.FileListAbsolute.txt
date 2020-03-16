@@ -1,0 +1,11 @@
+D:\Coding practice\ToolBox\ShapeSharp\bin\Debug\netcoreapp3.1\ShapeSharp.exe
+D:\Coding practice\ToolBox\ShapeSharp\bin\Debug\netcoreapp3.1\ShapeSharp.deps.json
+D:\Coding practice\ToolBox\ShapeSharp\bin\Debug\netcoreapp3.1\ShapeSharp.runtimeconfig.json
+D:\Coding practice\ToolBox\ShapeSharp\bin\Debug\netcoreapp3.1\ShapeSharp.runtimeconfig.dev.json
+D:\Coding practice\ToolBox\ShapeSharp\bin\Debug\netcoreapp3.1\ShapeSharp.dll
+D:\Coding practice\ToolBox\ShapeSharp\bin\Debug\netcoreapp3.1\ShapeSharp.pdb
+D:\Coding practice\ToolBox\ShapeSharp\obj\Debug\netcoreapp3.1\ShapeSharp.csprojAssemblyReference.cache
+D:\Coding practice\ToolBox\ShapeSharp\obj\Debug\netcoreapp3.1\ShapeSharp.AssemblyInfoInputs.cache
+D:\Coding practice\ToolBox\ShapeSharp\obj\Debug\netcoreapp3.1\ShapeSharp.AssemblyInfo.cs
+D:\Coding practice\ToolBox\ShapeSharp\obj\Debug\netcoreapp3.1\ShapeSharp.dll
+D:\Coding practice\ToolBox\ShapeSharp\obj\Debug\netcoreapp3.1\ShapeSharp.pdb
